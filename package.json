@@ -1,0 +1,22 @@
+{
+  "name": "static-server",
+  "description": "Server for static",
+  "version": "1.0.0",
+  "main": "lib/server.js",
+  "bin": {
+    "static-server": "./bin/server.js"
+  },
+  "license": "MIT",
+  "keywords": [
+    "static",
+    "server"
+  ],
+  "author": {
+    "name": "Viacheslav Bereza",
+    "email": "mail@betula.co"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/betula/static-server.git"
+  }
+}
