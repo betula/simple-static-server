@@ -1,6 +1,6 @@
 # Сервер статики
 
-## Устновка
+## Установка
 
 	npm i -g betula/static-server
 	
